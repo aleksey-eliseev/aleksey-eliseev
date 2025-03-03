@@ -14,8 +14,8 @@
 - Автоматизация: макросы VBA, обработка данных в Excel
 
 ## 🏆 Проектный опыт
-🔗 [Учебные проекты Practicum](https://github.com/aleksey-eliseev/Practicum_Projects)
-🔗 [Профиль в Tableau](https://public.tableau.com/app/profile/aleksey.eliseev/vizzes)
+🔗 [Проекты Practicum](https://github.com/aleksey-eliseev/Practicum_Projects)
+🔗 [Дашборды в Tableau](https://public.tableau.com/app/profile/aleksey.eliseev/vizzes)
 
 ### 📌 Анализ оттока клиентов банка
 - Исследовательский анализ, сегментация пользователей, выявление факторов оттока
